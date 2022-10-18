@@ -1,0 +1,21 @@
+* {
+    color: rgb(143, 143, 12);
+}
+h1 {
+    color: blue;
+}
+.color-h2 {
+    color: red;
+}
+#id-element {
+    color: aqua;
+}
+[bicho="siuuu"] {
+    color: blueviolet;
+}
+h2 p{
+    color: chartreuse;
+}
+h1:hover{
+    color: darkblue 
+}
