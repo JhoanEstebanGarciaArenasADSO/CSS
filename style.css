@@ -1,21 +1,18 @@
-* {
-    color: rgb(143, 143, 12);
+.k{
+    color: aquamarine;
 }
-h1 {
+#m{
     color: blue;
 }
-.color-h2 {
-    color: red;
+h1 {
+    color: aliceblue;
 }
-#id-element {
-    color: aqua;
+h1{
+    color: brown !important;
 }
-[bicho="siuuu"] {
-    color: blueviolet;
+.ñ{
+    color: bisque;
 }
-h2 p{
-    color: chartreuse;
-}
-h1:hover{
-    color: darkblue 
+#l{
+    color: indigo;
 }
