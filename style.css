@@ -16,3 +16,12 @@ h1{
 #l{
     color: indigo;
 }
+.form__input{
+    color: rgb(25, 105, 175);
+}
+.hola__input:first-child{
+    color: blueviolet;
+}
+.hola__input--active{
+    color: brown;
+}
