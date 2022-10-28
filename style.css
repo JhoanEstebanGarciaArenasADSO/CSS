@@ -1,27 +1,11 @@
-.k{
-    color: aquamarine;
-}
-#m{
-    color: blue;
-}
-h1 {
-    color: aliceblue;
+.h2{
+font-size: 80px;
 }
 h1{
-    color: brown !important;
+font-size: 8em;
 }
-.ñ{
-    color: bisque;
-}
-#l{
-    color: indigo;
-}
-.form__input{
-    color: rgb(25, 105, 175);
-}
-.hola__input:first-child{
-    color: blueviolet;
-}
-.hola__input--active{
-    color: brown;
+h2{
+font-size: 25px;
+background-color: azure;
+width: 50%;
 }
