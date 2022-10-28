@@ -1,7 +1,16 @@
-h2{
-font-size: 2em;
+* {
+color: rgb(35, 53, 69);
 font-family: sans-serif;
-line-height: 5;
-font-weight: 1000;
-font-stretch: condensed;
+font-weight: 100;
+font-size: 30px;
+}
+
+h2{
+display: inline;
+color: aqua;
+width: 100px;
+}
+p{
+height: 400px;
+color: blue;
 }
