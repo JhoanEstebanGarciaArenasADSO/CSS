@@ -6,11 +6,6 @@ font-size: 30px;
 }
 
 h2{
-display: inline;
-color: aqua;
-width: 100px;
-}
-p{
-height: 400px;
-color: blue;
+background-color: rgb(181, 83, 83);
+display: inline-block;
 }
